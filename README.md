@@ -1,5 +1,11 @@
 # etl-data-pipeline-using-aws-EMR-spark-Glue-Athena
 
+![GitHub](https://img.shields.io/github/license/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena.svg?cache=remove)
+
 In this project, we build an ETL (Extract, Transform, and Load) pipeline for batch processing using [Amazon EMR (Amazon Elastic MapReduce)](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html) and [Spark](https://spark.apache.org/). During this process we will  learn about few of the use case of batch ETL process and how EMR can be leveraged to solve such problems. 
 
 Batch ETL is a common use case across many organizations and this use case implementation learning will provide us a starting point that we can use to build more complex data pipelines in AWS using Amazon EMR.
