@@ -1,4 +1,5 @@
-# etl-data-pipeline-using-aws-EMR-spark-Glue-Athena
+# ETL-Data-Pipeline-using-AWS-EMR-Spark-Glue-Athena
+
 
 ![GitHub](https://img.shields.io/github/license/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/fermat01/etl-data-pipeline-using-aws-EMR-spark-Glue-Athena?style=flat)
