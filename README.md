@@ -16,6 +16,7 @@ We are going to use [PySpark](https://spark.apache.org/docs/latest/api/python/) 
 ## What you will learn
 
 In this guide, you will learn:
+
 - How to create and setup an Amazon EMR cluster 
 - How to submit a PySpark job on EMR 
 - How to integrate EMR with Amazon S3 
