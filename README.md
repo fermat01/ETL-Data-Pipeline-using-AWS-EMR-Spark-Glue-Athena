@@ -71,7 +71,8 @@ Before we create an EMR cluster we need to create a `Key Pair`, which we would n
 
 5. Cluster creation would take some time, and after couple of minutes, you will see that the cluster is **up and running** with a state as `Waiting` (which means the cluster is now ready and waiting to execute any ETL job)
 
-![emr cluster status](images/cluster-status.png)
+![emr cluster status](images/emr-status.png)
+
 
 ## Create an Amazon S3 bucket
 
@@ -95,9 +96,12 @@ Now we will create an Amazon S3 bucket and shall create two sub-folders within t
 
 ![Upload raw data](images/File-Uploaded.png)
 
-5. From master node edit inbound rules security group and select `my ip `
+5. From security group edit inbound rules security group of master node.
 
-  ![emr](images//error-fixing.png)
+  ![emr](images//cluster-sg.png) 
+
+  5. After editing inbound rules security group of master node, select `my ip `
+  ![emr](images//error-fixing.png) 
 
 ## Submit the PySpark job 
 
