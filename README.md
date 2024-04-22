@@ -39,7 +39,7 @@ We need to build a data pipeline that it will take this new sales file from the 
 
 To implement this data pipeline, we will use EMR cluster with Spark as the distributed processing engine. And we are going to use Amazon S3 for storing the: - `RAW` data (which is the input and unprocessed data) and - `CLEANSED` data (which is output and processed data)
 
-![Img Architecture](images/data-archit.png)
+![Img Architecture](images/data-archit.gif)
 
 ## Create an EMR Cluster
 
