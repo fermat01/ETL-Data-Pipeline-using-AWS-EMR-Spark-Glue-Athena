@@ -96,7 +96,7 @@ Now we will create an Amazon S3 bucket and shall create two sub-folders within t
 
 ![emr](images//cluster-sg.png)
 
-5. After editing inbound rules security group of master node, select `my ip `
+5. After editing inbound rules security group of master node, add new rule with SSH to  `my ip `
    ![emr](images//error-fixing.png)
 
 ## Submit the PySpark job
