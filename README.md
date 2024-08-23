@@ -41,7 +41,7 @@ To implement this data pipeline, we will use EMR cluster with Spark as the distr
 
 
 
- <img src="images/etl-data-pipl.gif" width=""/>
+ <img src="images/etl-data-archit.gif" width=""/>
 
 ## Create an EMR Cluster
 
